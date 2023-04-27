@@ -1,5 +1,7 @@
 # integrate-azure-repo-with-github
 
+# This is ongoing, not done yet!
+
 This project has to implement in Azure DevOps and Github.
 
 Here, we use Bicep template (with a vm resource) to deploy in Azure.
